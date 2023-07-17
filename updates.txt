@@ -1,0 +1,19 @@
+<h2 style="color: #7c202b;"><b>AzureDS v1.0</b></h2>
+<h3><b>What's New?</b></h3>
+<h4><b>New User Interface</b></h4>
+<img src="r4_gui.png"></img>
+<p>Experience a sleek, modern, and intuitive GUI, making navigation a breeze.</p>
+<h4><b>Enhanced Compatibility</b></h4>
+<p>Now includes built-in emulators like GBARunner2, enabling seamless gameplay of many Gameboy Advance titles*.</p>
+<h4><b>Improved Performance</b></h4>
+<p>Enjoy faster loading times and smoother gameplay for an overall enhanced gaming experience.</p>
+<h4><b>Expanded Storage Support</b></h4>
+<p>Compatible with microSD cards up to 32GB, allowing you to carry even more games with you on the go.</p>
+<h4><b>Automatic Game Patching</b></h4>
+<p>Automatically applies necessary patches to ensure compatibility with a wider range of games.</p>
+<h4><b>User-friendly Setup</b></h4>
+<p>Simple and easy-to-follow installation process, making it accessible to users of all levels.</p>
+<h4><b>Regular Updates</b></h4>
+<p>Stay up-to-date with new features, improvements, and bug fixes through regular firmware updates.</p>
+<h4><b>U.S. Based Customer Support</b></h4>
+<p>We're here to assist you with any inquiries or issues you may encounter.</p>
