@@ -4,13 +4,13 @@
 <img src="r4_gui.png"></img>
 <p>Experience a sleek, modern, and intuitive GUI, making navigation a breeze.</p>
 <h4><b>Enhanced Compatibility</b></h4>
-<p>Now includes built-in emulators like GBARunner2, enabling seamless gameplay of many Gameboy Advance titles*.</p>
+<p>Now includes built-in emulators like GBARunner2, enabling seamless support of many GBA ROMs*.</p>
 <h4><b>Improved Performance</b></h4>
-<p>Enjoy faster loading times and smoother gameplay for an overall enhanced gaming experience.</p>
+<p>Enjoy faster loading times for an overall enhanced experience.</p>
 <h4><b>Expanded Storage Support</b></h4>
-<p>Compatible with microSD cards up to 32GB, allowing you to carry even more games with you on the go.</p>
-<h4><b>Automatic Game Patching</b></h4>
-<p>Automatically applies necessary patches to ensure compatibility with a wider range of games.</p>
+<p>Compatible with microSD cards up to 32GB, allowing you to carry even more ROMs with you on the go.</p>
+<h4><b>Automatic ROM Patching</b></h4>
+<p>Automatically applies necessary patches to ensure compatibility with a wider range of ROMs.</p>
 <h4><b>User-friendly Setup</b></h4>
 <p>Simple and easy-to-follow installation process, making it accessible to users of all levels.</p>
 <h4><b>Regular Updates</b></h4>
